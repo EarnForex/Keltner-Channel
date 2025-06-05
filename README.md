@@ -6,6 +6,6 @@ By default, Keltner Channel uses simple moving averages of the typical price. Yo
 
 ![Keltner Channel indicator helps to spot some trend-based entries on the EUR/USD chart](https://github.com/EarnForex/Keltner-Channel/blob/main/README_Images/keltner-channel-indicator-shows-trend-changes.png)
 
-More information about this custom MetaTrader indicator is available here: https://www.earnforex.com/metatrader-indicators/Keltner-Channel/
+More information about this custom MetaTrader indicator is available here: https://www.earnforex.com/indicators/Keltner-Channel/
 
 Any contributions to the code are welcome!
